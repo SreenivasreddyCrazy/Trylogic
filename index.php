@@ -1,3 +1,4 @@
 <?php
-echo "Hi";
+echo  "hi";
+echo  "Trylogic Soft Solutions";
 ?>
